@@ -1,0 +1,121 @@
+customer_id,region,segment,signup_date
+1,Asia,Small Business,2023-07-21
+2,Europe,Small Business,2024-08-03
+3,Middle East,Consumer,2023-06-25
+4,Asia,Consumer,2024-07-11
+5,North America,Consumer,2023-11-21
+6,South America,Consumer,2023-06-12
+7,Asia,Consumer,2023-08-22
+8,Middle East,Consumer,2024-01-07
+9,North America,Consumer,2024-06-19
+10,Europe,Small Business,2024-02-29
+11,Europe,Consumer,2024-10-15
+12,South America,Enterprise,2024-08-30
+13,Asia,Small Business,2024-06-11
+14,Middle East,Consumer,2024-02-27
+15,Europe,Small Business,2023-07-22
+16,North America,Consumer,2023-10-16
+17,Europe,Enterprise,2023-03-25
+18,North America,Consumer,2023-09-19
+19,Middle East,Small Business,2024-10-10
+20,Asia,Consumer,2023-10-26
+21,Asia,Consumer,2023-03-21
+22,Europe,Consumer,2024-04-01
+23,South America,Enterprise,2024-11-04
+24,Middle East,Small Business,2024-08-30
+25,Asia,Consumer,2023-07-11
+26,North America,Consumer,2023-11-14
+27,Europe,Consumer,2024-01-07
+28,North America,Consumer,2023-06-23
+29,North America,Consumer,2023-07-08
+30,Asia,Consumer,2023-06-15
+31,Asia,Small Business,2024-11-27
+32,South America,Enterprise,2024-06-06
+33,Europe,Consumer,2024-08-11
+34,Europe,Small Business,2024-07-25
+35,Europe,Consumer,2024-11-02
+36,North America,Small Business,2023-03-15
+37,North America,Consumer,2024-09-09
+38,Europe,Small Business,2023-02-16
+39,North America,Small Business,2023-11-29
+40,Asia,Small Business,2024-02-21
+41,Europe,Consumer,2023-09-08
+42,Middle East,Enterprise,2023-04-13
+43,Asia,Consumer,2023-05-15
+44,Europe,Consumer,2024-07-31
+45,Middle East,Small Business,2023-08-12
+46,Middle East,Consumer,2023-08-06
+47,Europe,Small Business,2024-10-08
+48,North America,Small Business,2023-04-11
+49,Asia,Consumer,2024-10-02
+50,North America,Enterprise,2024-10-06
+51,North America,Consumer,2024-02-23
+52,North America,Consumer,2023-04-26
+53,Middle East,Consumer,2023-04-20
+54,Asia,Enterprise,2023-07-19
+55,Asia,Consumer,2024-02-09
+56,Middle East,Consumer,2023-04-18
+57,Europe,Consumer,2023-11-15
+58,Europe,Enterprise,2023-03-22
+59,North America,Enterprise,2024-01-14
+60,North America,Small Business,2023-01-15
+61,Asia,Enterprise,2024-05-11
+62,Europe,Enterprise,2023-02-08
+63,Europe,Consumer,2023-05-17
+64,Asia,Consumer,2023-05-03
+65,Asia,Small Business,2024-08-04
+66,Europe,Small Business,2023-02-07
+67,Europe,Consumer,2023-10-28
+68,Europe,Consumer,2024-02-18
+69,North America,Small Business,2023-12-28
+70,Europe,Consumer,2024-04-21
+71,North America,Enterprise,2024-07-16
+72,Europe,Consumer,2023-10-03
+73,Middle East,Consumer,2024-08-02
+74,North America,Small Business,2023-08-11
+75,North America,Consumer,2024-11-20
+76,North America,Consumer,2023-12-20
+77,North America,Small Business,2024-05-30
+78,Asia,Enterprise,2024-09-04
+79,Europe,Consumer,2024-07-08
+80,Middle East,Consumer,2024-08-18
+81,Asia,Small Business,2024-01-11
+82,Europe,Enterprise,2023-01-31
+83,Middle East,Consumer,2023-12-12
+84,North America,Consumer,2023-05-08
+85,North America,Consumer,2024-09-14
+86,North America,Consumer,2023-06-15
+87,Asia,Consumer,2023-06-09
+88,Europe,Small Business,2023-06-24
+89,North America,Consumer,2024-03-25
+90,Europe,Consumer,2024-02-04
+91,North America,Small Business,2024-10-26
+92,Asia,Small Business,2023-10-19
+93,Europe,Consumer,2023-07-17
+94,Europe,Small Business,2023-02-04
+95,Europe,Small Business,2023-01-05
+96,Asia,Small Business,2023-09-19
+97,Europe,Consumer,2024-10-10
+98,North America,Consumer,2024-01-02
+99,North America,Enterprise,2024-09-17
+100,South America,Consumer,2023-03-13
+101,South America,Consumer,2023-03-07
+102,Asia,Consumer,2024-08-06
+103,North America,Small Business,2023-03-16
+104,South America,Enterprise,2023-02-06
+105,Asia,Consumer,2023-10-10
+106,Asia,Enterprise,2024-10-09
+107,Europe,Consumer,2024-04-27
+108,North America,Small Business,2023-03-11
+109,North America,Small Business,2024-08-08
+110,South America,Consumer,2024-08-13
+111,Europe,Consumer,2024-07-14
+112,North America,Consumer,2024-09-23
+113,Europe,Enterprise,2023-06-17
+114,Europe,Small Business,2024-11-16
+115,North America,Enterprise,2023-08-13
+116,Middle East,Small Business,2024-07-15
+117,Asia,Consumer,2024-02-10
+118,Asia,Small Business,2024-06-29
+119,Europe,Consumer,2024-03-15
+120,Asia,Consumer,2024-03-25

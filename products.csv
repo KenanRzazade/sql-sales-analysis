@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+1,Wireless Mouse,Electronics,352.32
+2,Mechanical Keyboard,Electronics,67.47
+3,USB-C Hub,Electronics,244.94
+4,Webcam,Electronics,235.29
+5,Monitor Stand,Electronics,387.05
+6,Notebook Set,Office Supplies,212.56
+7,Desk Organizer,Office Supplies,178.21
+8,Sticky Notes,Office Supplies,290.69
+9,Whiteboard,Office Supplies,125.78
+10,Pen Pack,Office Supplies,69.78
+11,Office Chair,Furniture,219.22
+12,Standing Desk,Furniture,192.27
+13,Bookshelf,Furniture,110.8
+14,Filing Cabinet,Furniture,170.44
+15,Desk Lamp,Furniture,169.95
+16,Analytics License,Software,152.75
+17,Design Suite,Software,175.72
+18,Cloud Storage Plan,Software,311.1
+19,Antivirus Bundle,Software,139.22
+20,VPN Subscription,Software,427.4
